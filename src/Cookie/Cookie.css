@@ -1,0 +1,18 @@
+#cookie_info {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: gray;
+  color: black;
+  font-size: 1.5rem;
+  opacity: 1;
+}
+
+#cookie_button {
+  background-color: yellow;
+  color: black;
+}
+
+#cookie_button:hover {
+  cursor: pointer;
+}
